@@ -1,6 +1,6 @@
 
 ### 👋 Hello, I'm Sharad Patel
-- GitHub Profile Views: ![](https://komarev.com/ghpvc/?username=sharadpatell)
+- Profile Views: ![](https://komarev.com/ghpvc/?username=sharadpatell&color=brightgreen&label=PROFILE+VIEWS)
 
 I'm a passionate Software Developer based in Hyderabad with 14 months of experience. My journey in the world of technology has been marked by a profound interest and commitment to the fields of Machine Learning, Data Science, and Artificial Intelligence (AI).
 
