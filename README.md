@@ -2,7 +2,7 @@
 ### 👋 Hello, I'm Sharad Patel
 ![](https://komarev.com/ghpvc/?username=sharadpatell&color=brightgreen&label=PROFILE+VIEWS)
 
-I'm a passionate Software Developer based in Hyderabad with 14 months of experience. My journey in the world of technology has been marked by a profound interest and commitment to the fields of Machine Learning, Data Science, and Artificial Intelligence (AI).
+I'm a  Software Developer based in Hyderabad with 14 months of experience. My journey in the world of technology has been marked by a profound interest and commitment to the fields of Machine Learning, Data Science, and Artificial Intelligence (AI).
 My journey in technology is not just a professional pursuit; it's a personal exploration of the limitless possibilities that emerging technologies offer. Beyond coding, I am a relentless learner, always seeking to expand my knowledge and skill set. Whether it's exploring the latest advancements in AI or diving into new programming languages, I thrive on the excitement of continuous growth and innovation.
 
 
