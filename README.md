@@ -1,56 +1,35 @@
+Hi, I’m Sharad 👋
 
-### 👋 Hello, I'm Sharad Patel
-![](https://komarev.com/ghpvc/?username=sharadpatell&color=brightgreen&label=PROFILE+VIEWS)
+I’m a Data Scientist with 3+ years of experience building AI-powered applications, mainly focused on NLP and Generative AI.
 
-I'm a  Software Developer based in Hyderabad. My journey in the world of technology has been marked by a profound interest and commitment to the fields of Machine Learning, Data Science, and Artificial Intelligence (AI).
-My journey in technology is not just a professional pursuit; it's a personal exploration of the limitless possibilities that emerging technologies offer. Beyond coding, I am a relentless learner, always seeking to expand my knowledge and skill set. Whether it's exploring the latest advancements in AI or diving into new programming languages, I thrive on the excitement of continuous growth and innovation.
+I’ve worked on real-world systems like document chatbots, email Q&A assistants, and personalized AI tools using LLMs and RAG. My work is mostly around designing complete pipelines — from data ingestion and preprocessing to embeddings, retrieval, and response generation.
 
+I primarily work with Python, SQL, and FastAPI, and have experience with vector databases like ChromaDB, along with techniques like hybrid search to improve retrieval quality.
 
-### 💡 Why I'm Excited About ML, Data Science, and AI
+Recently, I’ve been exploring how to make these systems more scalable and enterprise-ready using cloud concepts like Azure AI services and model deployment platforms such as Azure AI Foundry.
 
-My enthusiasm for Machine Learning, Data Science, and AI goes beyond professional aspirations; it's a driving force that fuels my curiosity and desire to contribute to cutting-edge technologies. Here's why:
+I enjoy debugging systems, improving model outputs, and making AI applications more reliable in real-world use cases.
 
-- **Problem Solving:** I see Machine Learning as a powerful tool for solving complex problems. The ability to train models and extract meaningful insights from data inspires me to approach challenges with innovative solutions.
+Currently, I’m learning more about LLM optimization, RAG improvements, and AI agents.
 
-- **Data-driven Decision Making:** In a data-driven world, the potential to harness information for informed decision-making is limitless. I am motivated by the prospect of creating solutions that transform raw data into actionable intelligence.
+💡 What I Work On
 
-- **Innovation:** AI, with its continuous advancements, presents opportunities for groundbreaking innovations. Being part of this transformative journey excites me, pushing me to stay abreast of the latest developments in the field.
+Generative AI (LLMs, RAG systems)
 
-### 🌐 Education and Experience
+NLP & Text Processing
 
-- 🎓 BSc in Computer Science
-- 🚀 Recently completed an data science course
+Embeddings & Vector Search
 
-### 💻 Skills
+End-to-End AI Pipelines
 
-- **Programming Languages:** Python, PHP
-- **Databases:** MySQL, PgSQL
-- **Data Science:** Machine Learning, Data Preprocessing, Data Visualization, NLP
-- **Libraries/Frameworks:**
-  - NumPy
-  - Pandas
-  - Matplotlib
-  - scikit-learn
-  - TensorFlow (for using BERT)
-- **Tools:**
-  - Power BI
-  - Excel
+FastAPI-based AI applications
 
+🚀 Projects
 
+Document Intelligence System (RAG-based chatbot)
 
-### 🚀 Projects
+Email Q&A + Auto-Reply Assistant
 
-- **Breast Cancer Detection using Streamlit:** Developed a web-based tool leveraging logistic regression for breast cancer detection.
-- **Text Classification using LSTM:** Applied deep learning techniques for text classification.
-- **Keyword Extraction API using NLP and Flask:** Implemented a Flask-based API for top keyword extraction from text data.
+Personalized AI Assistant
 
-### 📬 Contact Me
-
-Feel free to reach out:
-
-- Email: patelsharad1485@gmail.com
-- LinkedIn: Sharad Patel  (https://www.linkedin.com/in/sharad-patel-/)
-
-
-
-
+📫 Reach me at: patelsharad1485@gmail.com
